@@ -1,0 +1,27 @@
+---
+title: "Pando: Fountain-enabled fast data dissemination with constructive interference"
+collection: publications
+permalink: /publication/2016-11-04_TON-2016
+excerpt: 'This paper presents Pando, a completely contentionfree data dissemination protocol for wireless sensor networks.'
+date: 2016-11-04
+venue: 'IEEE/ACM Transactions On Networking'
+paperurl: 'https://wands.sg/publications/full_list/papers/TON_17_3.pdf'
+citation: 'Du, Wan, Jansen Christian Liando, Huanle Zhang, and Mo Li. &quot;Pando: Fountain-enabled fast data dissemination with constructive interference.&quot; <i>IEEE/ACM Transactions on Networking 25</i>, no. 2 (2016): 820-833.'
+---
+This paper presents Pando, a completely contentionfree data dissemination protocol for wireless sensor networks. Pando encodes data by Fountain codes and disseminates the rateless stream of encoded packets along the fast and parallel pipelines built on constructive interference and channel diversity. Since every encoded packet contains innovative information to the original data object, Pando avoids duplicate retransmissions and fully exploits the wireless broadcast effect in data dissemination. To transform Pando into a practical system, we devise several techniques, including the integration of Fountain coding with the timing-critical operations of constructive interference and pipelining, a silence-based feedback scheme for the one-way pipelined dissemination, and packet-level adaptation of network density and channel diversity. Based on these techniques, Pando can accomplish data dissemination entirely over the fast and parallel pipelines. We implement Pando in Contiki and for TelosB motes. We evaluate Pando with various settings on two large-scale open test beds, Indriya and Flocklab. Our experimental results show that Pando can provide 100% reliability and reduce the dissemination time of state of the art by 3.5×.
+
+[Download paper here](https://wands.sg/publications/full_list/papers/TON_17_3.pdf)
+
+Recommended citation:
+```
+@article{du2016pando,
+  title={Pando: Fountain-enabled fast data dissemination with constructive interference},
+  author={Du, Wan and Liando, Jansen Christian and Zhang, Huanle and Li, Mo},
+  journal={IEEE/ACM Transactions on Networking},
+  volume={25},
+  number={2},
+  pages={820--833},
+  year={2016},
+  publisher={IEEE}
+}
+```
