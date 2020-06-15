@@ -13,5 +13,5 @@ I am a Research Associate at [Wireless And Networked Distributed Sensing (WANDS)
 Publications
 ======
   <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
+    {% include archive-single.html %}
   {% endfor %}</ul>
