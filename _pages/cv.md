@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.Eng. in Computer Science, Nanyang Technological University, 2014
-* M.Eng. in Computer Science, Nanyang Technological University, 2019
+* B.Eng., Nanyang Technological University, 2014
+* M.Eng., Nanyang Technological University, 2019
 
 Work experience
 ======
