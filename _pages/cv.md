@@ -18,15 +18,15 @@ Work experience
 ======
 * May 2013 - July 2013: Intern
   * Adventus Singapore Pte Ltd
-  * Supervisor: Tan Jaw Chyuan
+  * Supervisor: [Mr. Tan Jaw Chyuan](https://www.linkedin.com/in/jaw-chyuan-tan-49484910)
   
 * 2014 - 2019: Research Assistant
   * Nanyang Technological University
-  * Supervisor: Professor Mo Li
+  * Supervisor: [Professor Mo Li](https://www.ntu.edu.sg/home/limo/)
 
 * 2019 - now: Research Associate
   * Nanyang Technological University
-  * Supervisor: Professor Mo Li
+  * Supervisor: [Professor Mo Li](https://www.ntu.edu.sg/home/limo/)
   
 Skills
 ======
