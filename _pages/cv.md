@@ -50,6 +50,16 @@ Skills
   * C++
   * C#
   * Java
+  
+Demos
+======
+* [IoT Dashboard](https://wands.sg/research/iot/dashboard/)
+  * Designed dashboard based on PHP, Javascript, HTML, CSS
+  * Setup and deploy database using Amazon RDS
+  * Setup dashboard on EC2 instance
+  * Developed LoRa sensor hardware for demo
+  * Developed LoRa gateway to receive sensor data
+  * Developed Cloud agent to parse received data from gateway
 
 Publications
 ======
