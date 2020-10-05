@@ -22,11 +22,11 @@ Work experience
   
 * 2014 - 2019: Research Assistant
   * Nanyang Technological University
-  * Supervisor: [Professor Mo Li](https://www.ntu.edu.sg/home/limo/)
+  * Supervisor: [Professor Li Mo](https://www.ntu.edu.sg/home/limo/)
 
 * 2019 - now: Research Associate
   * Nanyang Technological University
-  * Supervisor: [Professor Mo Li](https://www.ntu.edu.sg/home/limo/)
+  * Supervisor: [Professor Li Mo](https://www.ntu.edu.sg/home/limo/)
   
 Skills
 ======
